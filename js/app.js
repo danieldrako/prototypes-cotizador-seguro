@@ -53,7 +53,7 @@ function cotizarSeguro(e) {
     }else{
         console.log('si pasó')
     }
- 
+ //s
 }
 
 
